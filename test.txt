@@ -35,6 +35,7 @@ $git checkout <name>  //switch branch
 $git checkout -b <name>  //create and switch branch
 $git merge <name>  //Merge from one branch to the current branch
 $git branch -d <name>  //delete one branch
+$git branch -D <name>  //Mandatory delete one branch
 
 $ git merge --no-ff -m "merge with no-ff" dev    //merging branches
 $ git log --graph --pretty=noeline --abbrev-commit  //Check the branch history
