@@ -1,4 +1,4 @@
-
+﻿
 $git config --global user.name "your name"                //设置你的名字
 $git config --global user.email "email@example.com"       //设置你的邮箱
 
