@@ -1630,7 +1630,7 @@ Request Body: `CustomerCreate`
 | data| Model instance data| form| Object([CustomerCreate](#user-content-CustomerCreate)) | true |
 | httpCtx| Do not implement in clients.| formData| string (JSON) | false |
 
-###<span id = "user-content-CustomerCreate">CustomerCreate</span>
+### <span id = "user-content-CustomerCreate">CustomerCreate</span>
 
 `userName`: {type: 'string', required: true},
 
