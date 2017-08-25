@@ -19,7 +19,7 @@
 
 - $git checkout -- <file>  //丢掉工作区的修改，
 
-- $git rm <file>
+- $git rm <file>   //移除 文件
 
 - $ssh-keygen -t rsa -C "youremail@example.com"   //生成id_rsa, id_rsa.pub
 
